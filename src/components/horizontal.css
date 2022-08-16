@@ -1,0 +1,11 @@
+.scroll{
+    overflow-x: scroll;
+    justify-content: center;
+    text-align: center;
+    display: inline-block;
+   
+}
+
+.left{
+    padding-left: 12px;
+}
